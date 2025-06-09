@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_login</name>
+   <tag></tag>
+   <elementGuidId>805b4c26-6374-4200-b6f2-5dfd66bf8d98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'login-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='login-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>a9153c7a-b0e7-4272-b407-89115ed999c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='login-button']</value>
+      <webElementGuid>928ae37a-e956-4c68-b1c0-6d1cd14e5288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_button_container']/div/form/input</value>
+      <webElementGuid>9fc9c8c6-3015-4eb8-8e80-9e5be3edc713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/input</value>
+      <webElementGuid>606aef84-eb60-49c8-8228-1cf3ad24b3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @id = 'login-button' and @name = 'login-button']</value>
+      <webElementGuid>aef89117-f6d5-43a2-9ad1-1563ade02809</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sauce Demo - Run Login Feature</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7d0b358-10f0-4bc1-867b-47fa772788bc</testCaseGuid>
+</TestCaseEntity>

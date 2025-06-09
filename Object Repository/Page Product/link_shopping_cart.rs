@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_shopping_cart</name>
+   <tag></tag>
+   <elementGuidId>d42034f3-1700-483d-b7c8-a0dbc4f83a90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'shopping_cart_link']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.shopping_cart_link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopping_cart_container']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shopping_cart_link</value>
+      <webElementGuid>aabd9c45-8053-4812-b549-53db524e38e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopping_cart_container']/a</value>
+      <webElementGuid>3f7f286a-9e2a-4b05-8c03-be4c7c64168e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>d45741b1-ba53-468d-bf3f-5af4968f7391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

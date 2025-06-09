@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sauce Demo - Add To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0b7394c-2ebe-457d-af45-cf3f1e92a6d4</testCaseGuid>
+</TestCaseEntity>

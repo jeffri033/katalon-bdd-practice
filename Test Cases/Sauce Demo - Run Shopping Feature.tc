@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sauce Demo - Run Shopping Feature</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e301d98d-e473-4624-b0fe-633c72b020a1</testCaseGuid>
+</TestCaseEntity>
