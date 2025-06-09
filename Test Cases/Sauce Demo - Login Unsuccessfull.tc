@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sauce Demo - Login Unsuccessfull</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1e2f9ab-a092-4d64-a767-c161db2b59bf</testCaseGuid>
+</TestCaseEntity>
